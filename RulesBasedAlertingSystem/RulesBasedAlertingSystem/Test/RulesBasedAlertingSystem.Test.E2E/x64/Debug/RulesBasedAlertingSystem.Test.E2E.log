@@ -1,0 +1,103 @@
+﻿  stdafx.cpp
+  main.cpp
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-message.h(224): warning C4251: 'testing::Message::ss_': class 'testing::internal::scoped_ptr<std::stringstream>' needs to have dll-interface to be used by clients of class 'testing::Message'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-message.h(224): note: see declaration of 'testing::internal::scoped_ptr<std::stringstream>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\internal\gtest-filepath.h(200): warning C4251: 'testing::internal::FilePath::pathname_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'testing::internal::FilePath'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\internal\gtest-internal.h(148): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'testing::internal::GoogleTestFailureException'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\stdexcept(156): note: see declaration of 'std::runtime_error'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\internal\gtest-internal.h(148): note: see declaration of 'testing::internal::GoogleTestFailureException'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\internal\gtest-internal.h(589): warning C4251: 'testing::internal::TypedTestCasePState::registered_tests_': class 'std::map<std::string,testing::internal::CodeLocation,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>' needs to have dll-interface to be used by clients of class 'testing::internal::TypedTestCasePState'
+          with
+          [
+              _Kty=std::string,
+              _Ty=testing::internal::CodeLocation
+          ]
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\internal\gtest-internal.h(586): note: see declaration of 'std::map<std::string,testing::internal::CodeLocation,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>'
+          with
+          [
+              _Kty=std::string,
+              _Ty=testing::internal::CodeLocation
+          ]
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\internal\gtest-death-test-internal.h(134): warning C4251: 'testing::internal::DeathTest::last_death_test_message_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'testing::internal::DeathTest'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-test-part.h(111): warning C4251: 'testing::TestPartResult::file_name_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'testing::TestPartResult'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-test-part.h(115): warning C4251: 'testing::TestPartResult::summary_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'testing::TestPartResult'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-test-part.h(116): warning C4251: 'testing::TestPartResult::message_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'testing::TestPartResult'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-test-part.h(140): warning C4251: 'testing::TestPartResultArray::array_': class 'std::vector<testing::TestPartResult,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'testing::TestPartResultArray'
+          with
+          [
+              _Ty=testing::TestPartResult
+          ]
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-test-part.h(140): note: see declaration of 'std::vector<testing::TestPartResult,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=testing::TestPartResult
+          ]
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-test-part.h(162): warning C4275: non dll-interface class 'testing::TestPartResultReporterInterface' used as base for dll-interface class 'testing::internal::HasNewFatalFailureHelper'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-test-part.h(146): note: see declaration of 'testing::TestPartResultReporterInterface'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-test-part.h(162): note: see declaration of 'testing::internal::HasNewFatalFailureHelper'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(335): warning C4251: 'testing::AssertionResult::message_': class 'testing::internal::scoped_ptr<std::string>' needs to have dll-interface to be used by clients of class 'testing::AssertionResult'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(335): note: see declaration of 'testing::internal::scoped_ptr<std::string>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(455): warning C4251: 'testing::Test::gtest_flag_saver_': class 'testing::internal::scoped_ptr<testing::internal::GTestFlagSaver>' needs to have dll-interface to be used by clients of class 'testing::Test'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(455): note: see declaration of 'testing::internal::scoped_ptr<testing::internal::GTestFlagSaver>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(621): warning C4251: 'testing::TestResult::test_part_results_': class 'std::vector<testing::TestPartResult,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'testing::TestResult'
+          with
+          [
+              _Ty=testing::TestPartResult
+          ]
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest-test-part.h(140): note: see declaration of 'std::vector<testing::TestPartResult,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=testing::TestPartResult
+          ]
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(623): warning C4251: 'testing::TestResult::test_properties_': class 'std::vector<testing::TestProperty,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'testing::TestResult'
+          with
+          [
+              _Ty=testing::TestProperty
+          ]
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(579): note: see declaration of 'std::vector<testing::TestProperty,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=testing::TestProperty
+          ]
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(751): warning C4251: 'testing::TestInfo::test_case_name_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'testing::TestInfo'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(752): warning C4251: 'testing::TestInfo::name_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'testing::TestInfo'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(755): warning C4251: 'testing::TestInfo::type_param_': class 'testing::internal::scoped_ptr<const std::string>' needs to have dll-interface to be used by clients of class 'testing::TestInfo'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(755): note: see declaration of 'testing::internal::scoped_ptr<const std::string>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(758): warning C4251: 'testing::TestInfo::value_param_': class 'testing::internal::scoped_ptr<const std::string>' needs to have dll-interface to be used by clients of class 'testing::TestInfo'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(755): note: see declaration of 'testing::internal::scoped_ptr<const std::string>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(759): warning C4251: 'testing::TestInfo::location_': struct 'testing::internal::CodeLocation' needs to have dll-interface to be used by clients of class 'testing::TestInfo'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\internal\gtest-internal.h(504): note: see declaration of 'testing::internal::CodeLocation'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(931): warning C4251: 'testing::TestCase::name_': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'testing::TestCase'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(934): warning C4251: 'testing::TestCase::type_param_': class 'testing::internal::scoped_ptr<const std::string>' needs to have dll-interface to be used by clients of class 'testing::TestCase'
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(755): note: see declaration of 'testing::internal::scoped_ptr<const std::string>'
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(937): warning C4251: 'testing::TestCase::test_info_list_': class 'std::vector<testing::TestInfo *,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'testing::TestCase'
+          with
+          [
+              _Ty=testing::TestInfo *
+          ]
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(856): note: see declaration of 'std::vector<testing::TestInfo *,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=testing::TestInfo *
+          ]
+c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(941): warning C4251: 'testing::TestCase::test_indices_': class 'std::vector<int,std::allocator<_Ty>>' needs to have dll-interface to be used by clients of class 'testing::TestCase'
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\320052453\desktop\rulesbasedalertingsystem\rulesbasedalertingsystem\rulesbasedalertingsystem\packages\googletest.1.8.3\build\native\include\gtest\gtest.h(941): note: see declaration of 'std::vector<int,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=int
+          ]
+  Generating Code...
+  RulesBasedAlertingSystem.Test.E2E.vcxproj -> C:\Users\320052453\Desktop\RulesBasedAlertingSystem\RulesBasedAlertingSystem\RulesBasedAlertingSystem\x64\Debug\RulesBasedAlertingSystem.Test.E2E.exe
+  RulesBasedAlertingSystem.Test.E2E.vcxproj -> C:\Users\320052453\Desktop\RulesBasedAlertingSystem\RulesBasedAlertingSystem\RulesBasedAlertingSystem\x64\Debug\RulesBasedAlertingSystem.Test.E2E.pdb (Full PDB)

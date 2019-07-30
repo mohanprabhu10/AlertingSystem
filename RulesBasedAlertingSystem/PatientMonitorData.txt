@@ -1,0 +1,51 @@
+{ "patientId": "chethan", "BodyTemparature": 37.2, "SPO2": 98.6, "SystolicBP": 112 }
+{ "patientId": "Marut", "BodyTemparature": 35, "DiastolicBP": 98.6, "PulseRate": 85,"RespiratoryRate": 15 }
+{ "patientId": "Mohan", "DiastolicBP": 96, "SPO2": 97, "SystolicBP": 120 }
+{ "patientId": "Raj", "PulseRate": 96}
+{ "patientId": "Kumar", "BodyTemparature": 36.3, "SystolicBP": 110 }
+{ "patientId": "chethan", "BodyTemparature": 37.5, "SPO2": 95, "SystolicBP": 123 }
+{ "patientId": "Marut", "BodyTemparature": 32, "DiastolicBP": 88, "PulseRate": 110,"RespiratoryRate": 21 }
+{ "patientId": "Mohan", "DiastolicBP": 86, "SPO2": 98.4, "SystolicBP": 100 }
+{ "patientId": "Raj", "PulseRate": 92}
+{ "patientId": "Kumar", "BodyTemparature": 36.6, "SystolicBP": 99 }
+{ "patientId": "chethan", "BodyTemparature": 36.9, "SPO2": 96,7, "SystolicBP": 127 }
+{ "patientId": "Marut", "BodyTemparature": 37, "DiastolicBP": 86, "PulseRate": 225,"RespiratoryRate": 25 }
+{ "patientId": "Mohan", "DiastolicBP": 76, "SPO2": 99.6, "SystolicBP": 110 }
+{ "patientId": "Raj", "PulseRate": 50}
+{ "patientId": "Kumar", "BodyTemparature":39, "SystolicBP": 122 }
+{ "patientId": "chethan", "BodyTemparature": 37, "SPO2": 80, "SystolicBP": 124 }
+{ "patientId": "Marut", "BodyTemparature": 36.3, "DiastolicBP": 56, "PulseRate": 100,"RespiratoryRate": 27 }
+{ "patientId": "Mohan", "DiastolicBP": 93, "SPO2": 98, "SystolicBP": 134 }
+{ "patientId": "Raj", "PulseRate": 45}
+{ "patientId": "Kumar", "BodyTemparature": 37.7, "SystolicBP": 127 }
+{ "patientId": "chethan", "BodyTemparature": 28, "SPO2": 65, "SystolicBP": 121 }
+{ "patientId": "Marut", "BodyTemparature": 25.6, "DiastolicBP": 76, "PulseRate": 92,"RespiratoryRate": 18 }
+{ "patientId": "Mohan", "DiastolicBP": 83, "SPO2": 95.6, "SystolicBP":122 }
+{ "patientId": "Raj", "PulseRate": 63}
+{ "patientId": "Kumar", "BodyTemparature": 36.5, "SystolicBP": 130 }
+{ "patientId": "chethan", "BodyTemparature": 40, "SPO2": 91, "SystolicBP": 119 }
+{ "patientId": "Marut", "BodyTemparature": 23, "DiastolicBP": 84, "PulseRate": 75,"RespiratoryRate": 17 }
+{ "patientId": "Mohan", "DiastolicBP": 78, "SPO2": 98.6, "SystolicBP": 89 }
+{ "patientId": "Raj", "PulseRate": 96}
+{ "patientId": "Kumar", "BodyTemparature": 37, "SystolicBP": 126 }
+{ "patientId": "chethan", "BodyTemparature": 37, "SPO2": 95, "SystolicBP": 122 }
+{ "patientId": "Marut", "BodyTemparature": 36.3, "DiastolicBP": 98.6, "PulseRate": 75,"RespiratoryRate": 16 }
+{ "patientId": "Mohan", "DiastolicBP": 96, "SPO2": 98.6, "SystolicBP": 121 }
+{ "patientId": "Raj", "PulseRate": 96}
+{ "patientId": "Kumar", "BodyTemparature": 37.4,"SystolicBP": 133 }
+{ "patientId": "chethan", "BodyTemparature": 36.5, "SPO2": 98.6, "SystolicBP": 132 }
+{ "patientId": "Marut", "BodyTemparature": 36.0, "DiastolicBP": 71, "PulseRate": 75,"RespiratoryRate": 45}
+{ "patientId": "Mohan", "DiastolicBP": 75, "SPO2": 98, "SystolicBP": 89 }
+{ "patientId": "Raj", "PulseRate": 96}
+{ "patientId": "Kumar", "BodyTemparature": 37.9, "SystolicBP": 132 }
+{ "patientId": "chethan", "BodyTemparature": 42, "SPO2": 94.6, "SystolicBP": 110 }
+{ "patientId": "Marut", "BodyTemparature": 39, "DiastolicBP": 96, "PulseRate": 75,"RespiratoryRate": 30 }
+{ "patientId": "Mohan", "DiastolicBP": 86, "SPO2": 98.6, "SystolicBP": 113 }
+{ "patientId": "Raj", "PulseRate": 67}
+{ "patientId": "Kumar", "BodyTemparature": 37.2, "SystolicBP": 75 }
+{ "patientId": "chethan", "BodyTemparature": 37, "SPO2": 96.6, "SystolicBP": 115 }
+{ "patientId": "Marut", "BodyTemparature": 38, "DiastolicBP": 72, "PulseRate": 120,"RespiratoryRate": 23 }
+{ "patientId": "Mohan", "DiastolicBP": 77, "SPO2": 93, "SystolicBP": 125 }
+{ "patientId": "Raj", "PulseRate": 96}
+{ "patientId": "Kumar", "BodyTemparature": 37, "SystolicBP": 135 }
+

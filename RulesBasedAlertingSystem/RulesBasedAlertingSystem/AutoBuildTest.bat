@@ -1,0 +1,5 @@
+@echo OFF
+devenv /clean debug RulesBasedAlertingSystem\RulesBasedAlertingSystem.sln
+devenv /build debug RulesBasedAlertingSystem\RulesBasedAlertingSystem.sln
+RulesBasedAlertingSystem\Debug\RulesBasedAlertingSystem.Host.exe
+pause

@@ -1,0 +1,14 @@
+﻿  VitalsRepository.cpp
+  SharedQueue.cpp
+  ReceiverUnit.cpp
+  PatientRepository.cpp
+  PatientRegistrationUnit.cpp
+  json11.cpp
+  ConsoleInputOutput.cpp
+  DeviceRepository.cpp
+  DeviceRegistrationUnit.cpp
+  AlertProcessingUnit.cpp
+  AlertingUnit.cpp
+  AlertingSystemModes.cpp
+  Generating Code...
+  RulesBasedAlertingSystem.vcxproj -> C:\Users\320052453\Desktop\RulesBasedAlertingSystem\RulesBasedAlertingSystem\RulesBasedAlertingSystem\x64\Debug\RulesBasedAlertingSystem.lib

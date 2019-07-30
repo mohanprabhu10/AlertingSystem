@@ -1,0 +1,6 @@
+SPO2/0.000000/100.000000/4/0.000000/70.000000/2/Lack of Oxygen, Critical/70.000000/90.000000/1/Hypoxemia, unsafe and unhealthy/90.000000/95.000000/1/Acceptable,but low.Unhealthy or smoker patient/95.000000/100.000000/0/Normal/
+PulseRate/0.000000/300.000000/5/0.000000/40.000000/2/Below healthy, Critical/40.000000/60.000000/0/Sleeping/60.000000/100.000000/0/Healthy rate/100.000000/220.000000/1/Acceptable during exercise,else critical/220.000000/300.000000/2/Abnormally high, critical in resting and excercise/
+RespiratoryRate/0.000000/100.000000/4/0.000000/12.000000/2/Low breathing rate, critical/12.000000/18.000000/0/Normal/18.000000/25.000000/1/Warning/25.000000/100.000000/2/Hyperventialtion, critical/
+BodyTemparature/0.000000/100.000000/3/0.000000/36.000000/2/Low, critical/36.000000/38.300000/0/Normal/38.300000/100.000000/2/High, critical/
+SystolicBP/0.000000/250.000000/3/0.000000/110.000000/2/critical/110.000000/130.000000/0/Normal/130.000000/250.000000/2/Critical/
+DiastolicBP/0.000000/200.000000/3/0.000000/70.000000/2/Critical/70.000000/90.000000/0/Normal/90.000000/200.000000/2/Critical/
